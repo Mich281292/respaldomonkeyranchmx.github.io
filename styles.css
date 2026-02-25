@@ -990,14 +990,14 @@ body.has-top-contact {
         overflow-x: hidden;
     }
     .ubicacion-map-box {
-        width: 100%;
-        max-width: 100%;
-        border-radius: 0;
+        width: 90vw;
+        max-width: 90vw;
+        border-radius: 10px;
         height: auto;
         padding: 0;
         box-sizing: border-box;
-        margin-left: 0;
-        margin-right: 0;
+        margin-left: auto;
+        margin-right: auto;
     }
     .ubicacion-map-box iframe {
         height: 200px;
